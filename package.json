@@ -1,0 +1,31 @@
+{
+  "name": "passport-geoaxis-oauth20",
+  "version": "0.1.0",
+  "description": "GEOAxIS (OAuth 2.0) authentication strategy for Passport.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProminentEdge/passport-geoaxis-oauth20.git"
+  },
+  "keywords": [
+    "GEOAxIS",
+    "Passport",
+    "Auth20"
+  ],
+  "author": {
+    "name": "Syrus Mesdaghi",
+    "email": "syrusm@prominentedge.com",
+    "url": "http://prominentedge.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProminentEdge/passport-geoaxis-oauth20/issues"
+  },
+  "homepage": "https://github.com/ProminentEdge/passport-geoaxis-oauth20#readme",
+  "dependencies": {
+    "base-64": "^0.1.0"
+  }
+}
